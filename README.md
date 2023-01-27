@@ -1,2 +1,3 @@
 # Login_Card
-* Login, Signup and Password_Reset Pages
+* This Design is a set of login, signup and password_reset pages
+* The pages were designed responsive
